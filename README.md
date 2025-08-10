@@ -1,7 +1,7 @@
-
 # 📚 LawGPT - AI-Powered Legal Assistant
 
 <div align="center">
+
 ![LawGPT Logo](https://img.shields.io/badge/LawGPT-Legal%20AI%20Assistant-blue?style=for-the-badge&logo=scales&logoColor=white)
 
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)
@@ -11,9 +11,11 @@
 
 *An intelligent legal chatbot powered by Google Gemini AI and document retrieval technology*
 
-</div>
-## 🌟 Features
+---
 
+<img src="image.png" alt="LawGPT Interface Screenshot" style="max-width: 100%; border-radius: 12px; box-shadow: 0 4px 16px #0001; margin: 24px 0;"/>
+
+---
 
 ## 🌟 Features
 
